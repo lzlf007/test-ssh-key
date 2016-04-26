@@ -1,0 +1,16 @@
+Your identification has been saved in /c/Documents and Settings/Administrator/.ssh/id_rsa.
+Your public key has been saved in /c/Documents and Settings/Administrator/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:lLcNNNzW88pRQnLZjN+lxTlLUW5hvtrHF3Beyjq6Wzc lzlf007@126.com
+The key's randomart image is:
++---[RSA 2048]----+
+|         .o..ooX=|
+|         o..ooO=O|
+|        o o. ..@O|
+|       . . + .*+*|
+|        S . ..o* |
+|             .=..|
+|            +.E.+|
+|           o o .o|
+|          +o     |
++----[SHA256]-----+
